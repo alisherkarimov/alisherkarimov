@@ -26,9 +26,9 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
  <p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)]
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]
 
 **Connect with me:**
 
