@@ -27,9 +27,8 @@
 </p>
  <p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Connect with me:**
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Alisher_Sadullaevich)](https://t.me/Alisher_Sadullaevich)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)
 
