@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center">A passionate flutter developer from Uzbekistan</h3>  
   <br />
-  <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
-</p>
-<h3 align="center">A passionate flutter developer from Uzbekistan</h3>
+  
 
 - 🌱 I’m currently learning **flutter**
 
