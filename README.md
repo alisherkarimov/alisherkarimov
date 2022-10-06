@@ -44,5 +44,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alisherkarimov&theme=tokyonight_duo&hide_border=true)](https://github.com/alisherkarimov/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
+![](https://hit.yhype.me/github/profile?user_id=31294354)
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
