@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alisherkarimov&theme=tokyonight_duo&hide_border=true)](https://github.com/alisherkarimov/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-
 <img src="https://activity-graph.herokuapp.com/graph?username=mbobiosio&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
