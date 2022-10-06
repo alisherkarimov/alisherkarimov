@@ -2,9 +2,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F1F7F5&center=true&width=435&lines=%F0%9F%91%8B+Hi+there!++I'm+Alisher" alt="Typing SVG" /></a>
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F1F7F5&center=true&width=435&lines=Hi+there!++I'm+Alisher" alt="Typing SVG" /></a>
-<h3 align="center">A passionate flutter developer from Uzbekistan</h3>  
-  <br />
+ <br />
   
 
 - 🌱 I’m currently learning **flutter**
