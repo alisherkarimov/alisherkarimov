@@ -32,7 +32,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Alisher_Sadullaevich)](https://t.me/Alisher_Sadullaevich)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisherkarimov&" alt="alisherkarimov" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alisherkarimov&theme=tokyonight_duo&hide_border=true)](https://github.com/alisherkarimov/)
