@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
+<p align="center">
+		<img alt="Roaa's Welcome Message"
+			 src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!++I'm+Alisher">
+  <br />
+  <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
+</p>
 <h3 align="center">A passionate flutter developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **flutter**
