@@ -1,6 +1,4 @@
-<h1 align="center">
-👋,,<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1F7F5&width=435&lines=Hi+there!++I'm+Alisher" alt="Typing SVG" /></a>
-	</h1>
+
   <br />
   <img src="https://hits.dwyl.com/roaa94/roaa94.svg?style=flat-square&show=unique" alt="Roaa's profile views" />
 </p>
