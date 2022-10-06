@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **alisherkarimov00007@gmail.com**
-- 🧐 Interests: Machine Learning; UI/UX; Photography
+- 🧐 Interests: Machine Learning; UI/UX; Graftography
 
 
 
