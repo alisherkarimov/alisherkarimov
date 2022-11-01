@@ -6,7 +6,7 @@
   
 
 - 🌱 I’m currently learning **flutter**
-// - 🧐 Interests: Cryptography
+
 
 
 
