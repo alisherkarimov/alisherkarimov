@@ -33,8 +33,6 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 
 
-**Connect with me:**
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Alisher_Sadullaevich)](https://t.me/Alisher_Sadullaevich) 
 ---
 ## 🔎 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)[![asakew's github stats](https://github-readme-stats.vercel.app/api?username=alisherkarimov&theme=github_dark&show_icons=true)](https://github.com/alisherkarimov/)
