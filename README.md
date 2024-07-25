@@ -8,10 +8,6 @@
 
 <h3 align="left">Languages/Frameworks:</h3>
  
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-
- 
  </br>
 
 
