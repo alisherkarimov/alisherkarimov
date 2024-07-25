@@ -4,9 +4,6 @@
 </h1>
  <br />
   
-
-
-<h3 align="left">Languages/Frameworks:</h3>
  
  </br>
 
