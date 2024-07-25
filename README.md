@@ -5,10 +5,6 @@
  <br />
   
 
-- 🌱 I’m currently learning **flutter**
-
-
-
 
 <h3 align="left">Languages/Frameworks:</h3>
  
